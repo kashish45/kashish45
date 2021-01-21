@@ -12,3 +12,5 @@
 - ⚡ Fun fact: I love Acting and Modelling besides my tech career.
 
 <img src="https://github-readme-stats.vercel.app/api?username=kashish45&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=A52A2A">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish45&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
