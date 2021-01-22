@@ -7,7 +7,6 @@
 - 💬 Ask me about Data Science, Machine Learning and Artificial Intelligence.
 - 📫 How to reach me: [LinkedIn - @kashishbhagat](https://www.linkedin.com/in/kashishbhagat/),  [Instagram - @thekashishbhagat](https://www.instagram.com/thekashishbhagat/)
 - 😄 Pronouns: He/His
-- ❤ I have a multipersonality disorder.
 - 🌹 < I ♥️ #!/bin/bash />
 - ⚡ Fun fact: I love Acting and Modelling besides my tech career.
 
