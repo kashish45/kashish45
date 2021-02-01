@@ -10,7 +10,7 @@
 - 🌹 < I ♥️ #!/bin/bash />
 - ⚡ Fun fact: I love Acting and Modelling besides my tech career.
 - ## ABOUT ME - 
-  I am a pre-final year student at ITM University Gurugram, currently pursuing a Bachelor of Technology in Computer Science. Some of my key skills include - Machine Learning, Deep Learning, Natural Language Processing, Big Data Constructs, Business Intelligence, and Statistics constructs, Bootstrap, JavaScript, Python, and C++.
+I am a pre-final year student at ITM University Gurugram, currently pursuing a Bachelor of Technology in Computer Science. Some of my key skills include - Machine Learning, Deep Learning, Natural Language Processing, Big Data Constructs, Business Intelligence, and Statistics constructs, Bootstrap, JavaScript, Python, and C++.
 
 I am an upcoming intern at Fidelity International, Gurugram. I have experience working with Machine Learning and Deep Learning Use-cases and deploy them as Flask and Fast-API applications. I really enjoy working with new technologies and build great things. You can know more about my projects and contributions to my GitHub:
 https://github.com/kashish45.
