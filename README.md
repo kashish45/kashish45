@@ -20,6 +20,16 @@ I love to participate in hackathons and have secured 2nd and 3rd positions at va
 
 Feel free to drop a message or connect with me! 
 
+```python
+def Kashish():
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Machine Learning':'Intermediate','Deep Learning':Intermediate'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
+  cloud_architecture = ['heroku', 'VSCode','GCP]
+  actor = True
+  active_blogger = True
+  return ∞
+```
+
 <img src="https://github-readme-stats.vercel.app/api?username=kashish45&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=A52A2A">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish45&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
