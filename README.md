@@ -22,9 +22,9 @@ Feel free to drop a message or connect with me!
 
 ```python
 def Kashish():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Machine Learning':'Intermediate','Deep Learning':Intermediate'}
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Machine Learning':'Intermediate','Deep Learning':'Intermediate'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-  cloud_architecture = ['heroku', 'VSCode','GCP]
+  cloud_architecture = ['heroku', 'VSCode','GCP']
   actor = True
   active_blogger = True
   return ∞
